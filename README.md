@@ -3,7 +3,14 @@
 **Cambrian College — Graduate Certificate in Artificial Intelligence**
 **Natural Language Processing — Assignment 2**
 
-> GitHub Repository: https://github.com/<your-username>/nlp-assignment2
+> GitHub Repository: https://github.com/jemishdankhara008/nlp-assignment2
+
+
+| Member | Contribution |
+|---|---|
+| Jemish Dankhara (A00316802) | Full implementation: LangGraph pipeline, MCP server, config, README |
+
+---
 
 ---
 
@@ -66,7 +73,7 @@ User Input (query)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/nlp-assignment2.git
+git clone https://github.com/jemishdankhara008/nlp-assignment2.git
 cd nlp-assignment2
 ```
 
@@ -178,16 +185,3 @@ nlp-assignment2/
 └── README.md
 ```
 
----
-
-## Team Contributions
-
-| Member | Contribution |
-|---|---|
-| *(your name)* | Full implementation: LangGraph pipeline, MCP server, config, README |
-
----
-
-## Academic Integrity Declaration
-
-Portions of this project were developed with AI assistance. All generated code has been reviewed, understood, and tested by the submitting student. The student can explain every line of the submission.
